@@ -11,8 +11,10 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/talomarquesmonteiro)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCB_lseG8dAbdjuemJv-nHXw)
-
+#
 ![Ítalo Marques-Monteiro GitHub status](https://github-readme-stats.vercel.app/api?username=italomarquesmonteiro&show_icons=true&theme=dracula)
+
+#
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italomarquesmonteiro&hide_progress=true)
 
