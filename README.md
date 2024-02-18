@@ -1,4 +1,4 @@
-# Olá ! Eu sou Ítalo Marques-Monteiro 👋
+# Hi there, I'm Ítalo Marques-Monteiro 👋
 
 <img style="width:1000px" src="https://github.com/italomarquesmonteiro/italomarquesmonteiro/blob/main/Photo-cover-GitHub-LinkedIn-x_reduced.PNG" alt="Graph Image">
 
