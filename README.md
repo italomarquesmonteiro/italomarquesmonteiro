@@ -1,8 +1,8 @@
-### Hi there 👋
+# Olá ! Eu sou Ítalo Marques-Monteiro 👋
 
 <img style="width:1000px" src="https://github.com/italomarquesmonteiro/italomarquesmonteiro/blob/main/Photo-cover-GitHub-LinkedIn-x_reduced.PNG" alt="Graph Image">
 
-
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italomarquesmonteiro/)
 
 <!--
 **italomarquesmonteiro/italomarquesmonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
