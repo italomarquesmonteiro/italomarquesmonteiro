@@ -34,3 +34,4 @@
 </div>
 
 ![Snake animation](https://github.com/italomarquesmonteiro/italomarquesmonteiro/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=italomarquesmonteiro&repo=italomarquesmonteiro&theme=react)](https://github.com/italomarquesmonteiro/italomarquesmonteiro)
