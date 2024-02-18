@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img style="width:300px" src="https://github.com/italomarquesmonteiro/italomarquesmonteiro/blob/main/Photo-cover-GitHub-LinkedIn-x.PNG" alt="Graph Image">
+<img style="width:800px" src="https://github.com/italomarquesmonteiro/italomarquesmonteiro/blob/main/Photo-cover-GitHub-LinkedIn-x.PNG" alt="Graph Image">
 
 
 
