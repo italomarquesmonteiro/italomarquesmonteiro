@@ -16,6 +16,7 @@
 
 #
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italomarquesmonteiro&hide_progress=true)
 
 ## Technologies I use in my day
