@@ -21,7 +21,7 @@
 ## Technologies I use in my day
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="r" src="https://img.shields.io/badge/R-white.svg?style=for-the-badge&logo=r&logoColor=#316fbe" />
+    <img align="center" alt="r" src="https://img.shields.io/badge/R-white.svg?style=for-the-badge&logo=r&logoColor=blue" />
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-4B8BBE.svg?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="chatgpt" src="https://img.shields.io/badge/ChatGPT-black.svg?style=for-the-badge&logo=openai&logoColor=white" />
     <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-333333.svg?style=for-the-badge&logo=markdown&logoColor=blue" />
