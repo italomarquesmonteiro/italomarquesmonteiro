@@ -27,7 +27,7 @@
     <img align="center" alt="vscode" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=yellow" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-FF5733.svg?style=for-the-badge&logo=html5&logoColor=blue" />
     <img align="center" alt="rstudio" src="https://img.shields.io/badge/RStudio-75AADB.svg?style=for-the-badge&logo=rstudio&logoColor=green" />
-    <img align="center" alt="stackoverflow" src="https://img.shields.io/badge/Stackoverflow-#f27f31.svg?style=for-the-badge&logo=stack-overflow&logoColor=black" />
+    <img align="center" alt="stackoverflow" src="https://img.shields.io/badge/Stackoverflow-coral2.svg?style=for-the-badge&logo=stack-overflow&logoColor=black" />
     <img align="center" alt="chatgpt" src="https://img.shields.io/badge/ChatGPT-black.svg?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
