@@ -23,12 +23,11 @@
 <div style="display: inline_block"><br/>
     <img align="center" alt="r" src="https://img.shields.io/badge/R-white.svg?style=for-the-badge&logo=r&logoColor=blue" />
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-4B8BBE.svg?style=for-the-badge&logo=python&logoColor=FFDA55" />
-    <img align="center" alt="chatgpt" src="https://img.shields.io/badge/ChatGPT-black.svg?style=for-the-badge&logo=openai&logoColor=white" />
     <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-333333.svg?style=for-the-badge&logo=markdown&logoColor=blue" />
     <img align="center" alt="vscode" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=yellow" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-FF5733.svg?style=for-the-badge&logo=html5&logoColor=blue" />
     <img align="center" alt="rstudio" src="https://img.shields.io/badge/RStudio-75AADB.svg?style=for-the-badge&logo=rstudio&logoColor=green" />
-    <img align="center" alt="stackoverflow" src="https://img.shields.io/badge/Stackoverflow-FFDA55.svg?style=for-the-badge&logo=stack-overflow&logoColor=black" />
+    <img align="center" alt="stackoverflow" src="https://img.shields.io/badge/Stackoverflow-#f27f31.svg?style=for-the-badge&logo=stack-overflow&logoColor=black" />
     <img align="center" alt="chatgpt" src="https://img.shields.io/badge/ChatGPT-black.svg?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
